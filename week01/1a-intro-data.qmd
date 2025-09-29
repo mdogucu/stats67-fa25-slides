@@ -61,7 +61,7 @@ One personal strength you have
 The most important thing about this course
 :::
 
-[The course website](https://mdogucu.github.io/stats67a-wi25-website/)
+[The course website](https://stats4cs.com)
 
 ## Poll Everywhere
 
@@ -316,7 +316,7 @@ knitr::include_graphics("img/quarto.006.png")
 
 ## Slides for this course
 
-Slides that you are currently looking at are also written in Quarto. You can take a look at them on [GitHub repo](https://github.com/mdogucu/stats67a-wi25-slides) for the course website.
+Slides that you are currently looking at are also written in Quarto. You can take a look at them on [GitHub repo](https://github.com/mdogucu/stats67-fs25-slides) for the course website.
 
 ##
 
@@ -330,8 +330,8 @@ You should download these files and render them and use them to take notes.
 
 ## File naming
 
-`1a` Week 1 lecture on Tuesday  
-`1b` Week 1 lecture on Thursday  
+`1a` Week 1 lecture on Monday  
+`1b` Week 1 lecture on Wednesday  
 `1d` Week 1 discussion  
 `1h` Week 1 homework  
 
