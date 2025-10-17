@@ -100,7 +100,7 @@ dgeom(x = 2, prob = 0.13)
 ```
 
 
-## Geometric pmf when $p = 0.13$
+## Geometric pmf when $\pi = 0.13$
 
 ```{r echo = FALSE, message = FALSE, fig.align="center", fig.height = 5}
 
